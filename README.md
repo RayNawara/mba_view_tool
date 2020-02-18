@@ -21,7 +21,9 @@ Or install it yourself as:
 
 ## Usage
 
+```ruby
 MbaViewTool::Renderer.copyright 'Your Name', 'All rights reserved'
+```
 
 ## Development
 
